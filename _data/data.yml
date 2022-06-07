@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://ikefakis.gihub.io/assets/pdf/Isidoros_Kefakis_CV.pdf
+    pdf: "/assets/pdf/Isidoros_Kefakis_CV.pdf"
 
     languages:
       - idiom: Greek
@@ -140,27 +140,27 @@ experiences:
           Engineer in the Data Core Implementation Section.
 projects:
     title: Projects
-    intro: >
+    # intro: >
        
     assignments:
       - title: IAG Booking Portal
-        link: "ndc.ba.com/iagportal"
+        link: "https://ndc.ba.com/iagportal"
         tagline: "A cloud-based tool which has been developed to offer a solution for Travel Agencies, Corporates and Travel Management Companies who want to access NDC offers."
 
       - title: Yum Meal Manager (Team Leader of the project)
-        link: "gitlab.com/bootcamp.jrt/yum3"
+        link: "https://gitlab.com/bootcamp.jrt/yum3"
         tagline: "A complete solution for Chefs and Employees for meal management and ordering. Used Angular and Spring Boot."
 
       - title: myFlight
-        link: "#"
+        # link: "#"
         tagline: "A responsive JSP website searching for flights through the new IATA NDC protocol."
 
       - title: Let me Mpei
-        link: "#"
+        # link: "#"
         tagline: "A responsive Angular website backed with Java/MySQL to control the entrance/exit of employees in the building."
 
       - title: AAS Flights
-        link: "#"
+        # link: "#"
         tagline: "A responsive Angular website that provides lists of clients flights"
 
 publications:
@@ -168,7 +168,7 @@ publications:
     intro: 
     papers:
       - title: Export of a Semi-Empirical Radio Coverage Model
-        link: "ikefakis.gihub.io/assets/pdf/Isidoros_Kefakis_Thesis.pdf"
+        link: "/assets/pdf/Isidoros_Kefakis_Thesis.pdf"
         authors: Isidoros Kefakis
         conference: University thesis
 
