@@ -145,19 +145,29 @@ projects:
     assignments:
       - title: IAG Booking Portal
         link: "https://ndc.ba.com/iagportal"
-        tagline: "A cloud-based tool which has been developed to offer a solution for Travel Agencies, Corporates and Travel Management Companies who want to access NDC offers."
+        tagline: >
+          "A cloud-based tool which has been developed to offer a solution for 
+          Travel Agencies, Corporates and Travel Management Companies who want 
+          to access NDC offers."
 
-      - title: Yum Meal Manager (Team Leader of the project)
+      - title: Yum Meal Manager
         link: "https://gitlab.com/bootcamp.jrt/yum3"
-        tagline: "A complete solution for Chefs and Employees for meal management and ordering. Used Angular and Spring Boot."
+        tagline: >
+          "A complete solution for Chefs and Employees for meal management 
+          and ordering. Used Angular and Spring Boot and I was the Team Leader 
+          of the project."
 
       - title: myFlight
         # link: "#"
-        tagline: "A responsive JSP website searching for flights through the new IATA NDC protocol."
+        tagline: >
+          "A responsive JSP website searching for flights through the new IATA 
+          NDC protocol."
 
       - title: Let me Mpei
         # link: "#"
-        tagline: "A responsive Angular website backed with Java/MySQL to control the entrance/exit of employees in the building."
+        tagline: >
+          "A responsive Angular website backed with Java/MySQL to control the 
+          entrance/exit of employees in the building."
 
       - title: AAS Flights
         # link: "#"
