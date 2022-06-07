@@ -1,0 +1,204 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Isidoros KEFAKIS
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ikefakis@gmail.com
+    phone: +30 6976 401650
+    citizenship: Greek
+    website: ikefakis.gihub.io #do not add http://
+    linkedin: ikefakis
+    xing:
+    github: ikefakis
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@izzykef'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://ikefakis.gihub.io/assets/pdf/Isidoros_Kefakis_CV.pdf
+
+    languages:
+      - idiom: Greek
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: German
+        level: Elementary
+
+    interests:
+      - item: Padel Tennis
+        link:
+
+      - item: Sup Surf
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced Software Developer with expertise in design, installation, 
+      testing and maintenance of software systems. Equipped with a diverse 
+      and promising skill-set. Proficient in various platforms and languages.
+      Experienced with cutting-edge development tools and procedures. Able to
+      effectively self-manage during independent projects, as well as collaborate
+      as part of a productive team.
+education:
+    - degree: GCP Essentials
+      university: Google
+      time: 2019
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+    - degree: Full Stack Developer - Bootcamp
+      university: JR Technologies
+      time: 2017
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Telecommunication Systems and Networks
+      university: Technological Educational Institute of Messolonghi, Greece
+      time: 2006 - 2012
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+    - degree: Certificate of Cisco CCNA Exploration 1, 2, 3, 4
+      university: Cisco Networking Academy
+      time: 2010 - 2011
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+    - degree: Summer school "Cellular Technologies & Solutions"
+      university: |
+        Organized by: TELEDROM, ERICSSON Sweden Preferred Supplier
+        Co-organized by: IEEE Greece GOLD A.G, TESYD Dpt., TEI of Messolonghi,
+        Info&MM Dpt., TEI of Patras 
+      time: 2010
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+    - degree: High School Graduate
+      university: 1st High School of Heraklion, Crete, Greece
+      time: 2005
+      details: |
+        Describe your study here.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: IT Business Systems Analyst - Software Developer
+      time: 2018 - Present
+      company: Aerocandia Aviation Services, Heraklion, Greece
+      details: |
+          - Analysis of Business systems and procedures
+          - Developed custom software solutions to increase company efficiency
+          - Project Manager of newly added corporate aviation ERP
+    - role: Software Developer
+      time: 2017 - 2018
+      company: JR Technologies, Chania, Greece
+      details: |
+          - Implemented and updated application modules for big scale projects
+          concerning the airline industry
+          - Addressed and fixed complex bugs
+          - Performed automated testing tasks
+    - role: Airline's Head Of Operations Control Center 
+      time: 2014 - 2016
+      company: Sky Express, Heraklion, Greece
+      details: |
+          Coordination Of Operations Control Center, Immediate Provision Of The Optimal Solution In Crisis
+          Circumstances, Flight Crew Duties Scheduling (by own made application), Training sessions
+          Scheduling, Flight Planning Based On Available Crews - Legislation - Demand, Developing in SQL /
+          VBA for report producing from Oracle DB, IT Support
+    - role: Airline's Operations Control Center Officer
+      time: 2013
+      company: Sky Express, Heraklion, Greece
+      details: |
+          Prepare of Flight Envelope, Follow up and Support to Live Flights,
+          Coordination of Crews - Airports - Partners
+    - role: Trainee Engineer
+      time: 2011 - 2012
+      company: Cosmote Mobile Telecommunications, Athens, Greece
+      details: |
+          Engineer in the Data Core Implementation Section.
+projects:
+    title: Projects
+    intro: >
+       
+    assignments:
+      - title: IAG Booking Portal
+        link: "ndc.ba.com/iagportal"
+        tagline: "A cloud-based tool which has been developed to offer a solution for Travel Agencies, Corporates and Travel Management Companies who want to access NDC offers."
+
+      - title: Yum Meal Manager (Team Leader of the project)
+        link: "gitlab.com/bootcamp.jrt/yum3"
+        tagline: "A complete solution for Chefs and Employees for meal management and ordering. Used Angular and Spring Boot."
+
+      - title: myFlight
+        link: "#"
+        tagline: "A responsive JSP website searching for flights through the new IATA NDC protocol."
+
+      - title: Let me Mpei
+        link: "#"
+        tagline: "A responsive Angular website backed with Java/MySQL to control the entrance/exit of employees in the building."
+
+      - title: AAS Flights
+        link: "#"
+        tagline: "A responsive Angular website that provides lists of clients flights"
+
+publications:
+    title: Publications
+    intro: 
+    papers:
+      - title: Export of a Semi-Empirical Radio Coverage Model
+        link: "ikefakis.gihub.io/assets/pdf/Isidoros_Kefakis_Thesis.pdf"
+        authors: Isidoros Kefakis
+        conference: University thesis
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java & Spring
+        level: 98%
+
+      - name: Javascript/Typescript & NodeJS 
+        level: 98%
+
+      - name: Angular
+        level: 98%
+      
+      - name: Databases
+        level: 95%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Version Control
+        level: 95%
+
+      - name: React
+        level: 85%
+
+      - name: Photoshop
+        level: 60%
+
+footer: >
+    Developed with <i class="fas fa-heart"></i> by Isidoros Kefakis</a>
