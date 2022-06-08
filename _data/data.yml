@@ -120,38 +120,37 @@ experience:
             Engineer in the Data Core Implementation Section.
 projects:
     title: Projects
-    # intro: >
-       
+    intro: 
     assignments:
       - title: IAG Booking Portal
         link: "https://ndc.ba.com/iagportal"
         tagline: >
-          "A cloud-based tool which has been developed to offer a solution for 
+          A cloud-based tool which has been developed to offer a solution for 
           Travel Agencies, Corporates and Travel Management Companies who want 
-          to access NDC offers."
+          to access NDC offers.
 
       - title: Yum Meal Manager
         link: "https://gitlab.com/bootcamp.jrt/yum3"
         tagline: >
-          "A complete solution for Chefs and Employees for meal management 
+          A complete solution for Chefs and Employees for meal management 
           and ordering. Used Angular and Spring Boot and I was the Team Leader 
-          of the project."
+          of the project.
 
       - title: myFlight
-        # link: "#"
+        link: 
         tagline: >
-          "A responsive JSP website searching for flights through the new IATA 
-          NDC protocol."
+          A responsive JSP website searching for flights through the new IATA 
+          NDC protocol.
 
       - title: Let me Mpei
-        # link: "#"
+        link: 
         tagline: >
-          "A responsive Angular website backed with Java/MySQL to control the 
-          entrance/exit of employees in the building."
+          A responsive Angular website backed with Java/MySQL to control the 
+          entrance/exit of employees in the building.
 
       - title: AAS Flights
-        # link: "#"
-        tagline: "A responsive Angular website that provides lists of clients flights"
+        link: 
+        tagline: A responsive Angular website that provides lists of clients flights
 
 publications:
     title: Publications
@@ -184,7 +183,7 @@ certifications:
       - title: Summer school "Cellular Technologies & Solutions"
         link: 
         organization: |
-          Organized by: TELEDROM, ERICSSON Sweden Preferred Supplier
+          Organized by: TELEDROM, ERICSSON Sweden Preferred Supplier.
           Co-organized by: IEEE Greece GOLD A.G, TESYD Dpt., TEI of Messolonghi,
           Info&MM Dpt., TEI of Patras
 
@@ -217,4 +216,4 @@ skills:
         level: 60%
 
 footer: >
-    Developed with <i class="fas fa-heart"></i> by Isidoros Kefakis</a>
+    Developed with <i class="fas fa-heart"></i> by Isidoros</a>
