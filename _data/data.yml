@@ -59,63 +59,65 @@ career-profile:
       as part of a productive team.
 education:
     title: Education
-    - degree: Full Stack Developer - Bootcamp
-      university: JR Technologies
-      time: 2017
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Telecommunication Systems and Networks
-      university: Technological Educational Institute of Messolonghi, Greece
-      time: 2006 - 2012
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
-    - degree: High School Graduate
-      university: 1st High School of Heraklion, Crete, Greece
-      time: 2005
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
-experiences:
+    graduations:
+      - degree: Full Stack Developer - Bootcamp
+        university: JR Technologies
+        time: 2017
+        details: |
+          Describe your study here.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Telecommunication Systems and Networks
+        university: Technological Educational Institute of Messolonghi, Greece
+        time: 2006 - 2012
+        details: |
+          Describe your study here.
+            - Bullet point
+            - Bullet point
+      - degree: High School Graduate
+        university: 1st High School of Heraklion, Crete, Greece
+        time: 2005
+        details: |
+          Describe your study here.
+            - Bullet point
+            - Bullet point
+experience:
     title: Experience
-    - role: IT Business Systems Analyst - Software Developer
-      time: 2018 - Present
-      company: Aerocandia Aviation Services, Heraklion, Greece
-      details: |
-          - Analysis of Business systems and procedures
-          - Developed custom software solutions to increase company efficiency
-          - Project Manager of newly added corporate aviation ERP
-    - role: Software Developer
-      time: 2017 - 2018
-      company: JR Technologies, Chania, Greece
-      details: |
-          - Implemented and updated application modules for big scale projects
-          concerning the airline industry
-          - Addressed and fixed complex bugs
-          - Performed automated testing tasks
-    - role: Airline's Head Of Operations Control Center 
-      time: 2014 - 2016
-      company: Sky Express, Heraklion, Greece
-      details: |
-          Coordination Of Operations Control Center, Immediate Provision Of The Optimal Solution In Crisis
-          Circumstances, Flight Crew Duties Scheduling (by own made application), Training sessions
-          Scheduling, Flight Planning Based On Available Crews - Legislation - Demand, Developing in SQL /
-          VBA for report producing from Oracle DB, IT Support
-    - role: Airline's Operations Control Center Officer
-      time: 2013
-      company: Sky Express, Heraklion, Greece
-      details: |
-          Prepare of Flight Envelope, Follow up and Support to Live Flights,
-          Coordination of Crews - Airports - Partners
-    - role: Trainee Engineer
-      time: 2011 - 2012
-      company: Cosmote Mobile Telecommunications, Athens, Greece
-      details: |
-          Engineer in the Data Core Implementation Section.
+    jobs:
+      - role: IT Business Systems Analyst - Software Developer
+        time: 2018 - Present
+        company: Aerocandia Aviation Services, Heraklion, Greece
+        details: |
+            - Analysis of Business systems and procedures
+            - Developed custom software solutions to increase company efficiency
+            - Project Manager of newly added corporate aviation ERP
+      - role: Software Developer
+        time: 2017 - 2018
+        company: JR Technologies, Chania, Greece
+        details: |
+            - Implemented and updated application modules for big scale projects
+            concerning the airline industry
+            - Addressed and fixed complex bugs
+            - Performed automated testing tasks
+      - role: Airline's Head Of Operations Control Center 
+        time: 2014 - 2016
+        company: Sky Express, Heraklion, Greece
+        details: |
+            Coordination Of Operations Control Center, Immediate Provision Of The Optimal Solution In Crisis
+            Circumstances, Flight Crew Duties Scheduling (by own made application), Training sessions
+            Scheduling, Flight Planning Based On Available Crews - Legislation - Demand, Developing in SQL /
+            VBA for report producing from Oracle DB, IT Support
+      - role: Airline's Operations Control Center Officer
+        time: 2013
+        company: Sky Express, Heraklion, Greece
+        details: |
+            Prepare of Flight Envelope, Follow up and Support to Live Flights,
+            Coordination of Crews - Airports - Partners
+      - role: Trainee Engineer
+        time: 2011 - 2012
+        company: Cosmote Mobile Telecommunications, Athens, Greece
+        details: |
+            Engineer in the Data Core Implementation Section.
 projects:
     title: Projects
     # intro: >
