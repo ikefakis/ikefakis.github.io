@@ -18,11 +18,13 @@
 
   {% for certification in certifications.certificates %}
   <div class="item">
-    {% if certification.link %}
-      <li><a href="{{ certification.link }}" target="_blank">{{ certification.title }}</a></li>
-    {% else %}
-      <li>{{ certification.title }}</li>
-    {% endif %}
+    <div class="title">
+      {% if certification.link %}
+        <a href="{{ certification.link }}" target="_blank">{{ certification.title }}</a>
+      {% else %}
+        {{ certification.title }}
+      {% endif %}
+    </div>
     <div class="organization">{{ certification.organization }}</div>
   </div><!--//item-->
   {% endfor %}
