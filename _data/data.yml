@@ -74,13 +74,6 @@ education:
           Describe your study here.
             - Bullet point
             - Bullet point
-      - degree: High School Graduate
-        university: 1st High School of Heraklion, Crete, Greece
-        time: 2005
-        details: |
-          Describe your study here.
-            - Bullet point
-            - Bullet point
 experience:
     title: Experience
     jobs:
