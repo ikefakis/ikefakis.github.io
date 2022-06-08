@@ -58,6 +58,7 @@ career-profile:
       effectively self-manage during independent projects, as well as collaborate
       as part of a productive team.
 education:
+    title: Education
     - degree: Full Stack Developer - Bootcamp
       university: JR Technologies
       time: 2017
@@ -80,6 +81,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    title: Experience
     - role: IT Business Systems Analyst - Software Developer
       time: 2018 - Present
       company: Aerocandia Aviation Services, Heraklion, Greece
@@ -167,7 +169,7 @@ certifications:
         organization: Google
       - title: Cisco CCNA Exploration
         link: 
-        organization: 
+        organization: Cisco
       - title: ECDL WebStarter Certificate
         link: 
         organization: ICDL Certification
