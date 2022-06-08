@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: "/assets/pdf/Isidoros_Kefakis_CV.pdf"
+    #pdf: "/assets/pdf/Isidoros_Kefakis_CV.pdf"
 
     languages:
       - idiom: Greek

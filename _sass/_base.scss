@@ -107,6 +107,10 @@ p {
       &:last-child {
         margin-bottom: 0;
       }
+
+      pdf a {
+        cursor: pointer;
+      }
     }
   }
 
