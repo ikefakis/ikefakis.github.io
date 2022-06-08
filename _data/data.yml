@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    pdf: True # set to False to hide the Resume PDF link
 
     # Profile information
     name: Isidoros KEFAKIS
@@ -26,7 +27,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: "/assets/pdf/Isidoros_Kefakis_CV.pdf"
 
     languages:
       - idiom: Greek
