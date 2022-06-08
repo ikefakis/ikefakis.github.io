@@ -58,13 +58,6 @@ career-profile:
       effectively self-manage during independent projects, as well as collaborate
       as part of a productive team.
 education:
-    - degree: GCP Essentials
-      university: Google
-      time: 2019
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
     - degree: Full Stack Developer - Bootcamp
       university: JR Technologies
       time: 2017
@@ -75,23 +68,6 @@ education:
     - degree: BSc in Telecommunication Systems and Networks
       university: Technological Educational Institute of Messolonghi, Greece
       time: 2006 - 2012
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
-    - degree: Certificate of Cisco CCNA Exploration 1, 2, 3, 4
-      university: Cisco Networking Academy
-      time: 2010 - 2011
-      details: |
-        Describe your study here.
-          - Bullet point
-          - Bullet point
-    - degree: Summer school "Cellular Technologies & Solutions"
-      university: |
-        Organized by: TELEDROM, ERICSSON Sweden Preferred Supplier
-        Co-organized by: IEEE Greece GOLD A.G, TESYD Dpt., TEI of Messolonghi,
-        Info&MM Dpt., TEI of Patras 
-      time: 2010
       details: |
         Describe your study here.
           - Bullet point
@@ -181,6 +157,32 @@ publications:
         link: "/assets/pdf/Isidoros_Kefakis_Thesis.pdf"
         authors: Isidoros Kefakis
         conference: University thesis
+
+certifications:
+    title: Certifications
+    intro: 
+    certificates:
+      - title: GCP Essentials
+        link: "https://google.qwiklabs.com/public_profiles/8fb386b9-a9e9-4046-8764-6594e284a946"
+        organization: Google
+      - title: Cisco CCNA Exploration
+        link: 
+        organization: 
+      - title: ECDL WebStarter Certificate
+        link: 
+        organization: ICDL Certification
+      - title: ECDL ImageMaker Certificate
+        link: 
+        organization: ICDL Certification
+      - title: Grow Greek Tourism Online
+        link: 
+        organization: Google
+      - title: Summer school "Cellular Technologies & Solutions"
+        link: 
+        organization: |
+          Organized by: TELEDROM, ERICSSON Sweden Preferred Supplier
+          Co-organized by: IEEE Greece GOLD A.G, TESYD Dpt., TEI of Messolonghi,
+          Info&MM Dpt., TEI of Patras
 
 skills:
     title: Skills &amp; Proficiency
