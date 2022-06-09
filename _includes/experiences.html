@@ -19,7 +19,13 @@
         <div class="time">{{ job.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ job.company }}</div>
+      <div class="company">
+        {% if job.company-url %}
+        <a href="{{ job.company-url }}">{{ job.company }}</a>
+        {% else %}
+        {{ job.company }}
+        {% endif %}
+      </div>
 
     </div><!--//meta-->
 
