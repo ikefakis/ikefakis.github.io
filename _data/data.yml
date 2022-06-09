@@ -16,7 +16,7 @@ sidebar:
     email: ikefakis@gmail.com
     phone: +30 6976 401650
     citizenship: Greek
-    website: ikefakis.github.io #do not add http://
+    website: ikefakis.github.io
     linkedin: ikefakis
     xing:
     github: ikefakis
@@ -80,6 +80,7 @@ experience:
       - role: IT Business Systems Analyst - Software Developer
         time: 2018 - Present
         company: Aerocandia Aviation Services, Heraklion, Greece
+        company-url: https://www.aerocandia.com
         details: |
             - Analysis of Business systems and procedures
             - Developed custom software solutions to increase company efficiency
@@ -87,6 +88,7 @@ experience:
       - role: Software Developer
         time: 2017 - 2018
         company: JR Technologies, Chania, Greece
+        company-url: https://www.jrtechnologies.com
         details: |
             - Implemented and updated application modules for big scale projects
             concerning the airline industry
@@ -95,22 +97,27 @@ experience:
       - role: Airline's Head Of Operations Control Center 
         time: 2014 - 2016
         company: Sky Express, Heraklion, Greece
+        company-url: https://www.skyexpress.gr
         details: |
-            Coordination Of Operations Control Center, Immediate Provision Of The Optimal Solution In Crisis
-            Circumstances, Flight Crew Duties Scheduling (by own made application), Training sessions
-            Scheduling, Flight Planning Based On Available Crews - Legislation - Demand, Developing in SQL /
-            VBA for report producing from Oracle DB, IT Support
+            - Coordination Of Operations Control Center
+            - Flight Crew duties and Training sessions scheduling with own custom application
+            - Development in SQL / VBA / Oracle DB for reporting
+            - Immediate provision of the optimal solution during crisis circumstances
+            - Flight Planning Based On Available Crews - Legislation - Demand
       - role: Airline's Operations Control Center Officer
         time: 2013
         company: Sky Express, Heraklion, Greece
+        company-url: https://www.skyexpress.gr
         details: |
-            Prepare of Flight Envelope, Follow up and Support to Live Flights,
-            Coordination of Crews - Airports - Partners
-      - role: Trainee Engineer
+            - Preparation of Flight Envelope
+            - Follow up and support to live flights
+            - Coordination of Crews - Airports - Partners
+      - role: Network Engineer (Trainee)
         time: 2011 - 2012
         company: Cosmote Mobile Telecommunications, Athens, Greece
+        company-url: https://www.cosmote.gr
         details: |
-            Engineer in the Data Core Implementation Section.
+            - Network Engineer in the Data Core Implementation Section
 projects:
     title: Projects
     intro: 
