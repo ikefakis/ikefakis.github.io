@@ -14,8 +14,8 @@
     {% endif %}
 
     {% if sidebar.citizenship %}
-    <li class="phone"><i class="fas fa-passport"></i>
-      <a href="">{{ sidebar.citizenship }}</a>
+    <li class="no-href"><i class="fas fa-passport"></i>
+      <a>{{ sidebar.citizenship }}</a>
     </li>
     {% endif %}
 
@@ -86,7 +86,7 @@
     {% endif %}
 
     {% if sidebar.pdf %}
-    <li class="pdf no-print"><i class="fas fa-file-pdf"></i>
+    <li class="no-href no-print"><i class="fas fa-file-pdf"></i>
       <a onclick="window.print()">Resume PDF</a>
     </li>
     {% endif %}
