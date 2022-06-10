@@ -21,7 +21,7 @@
 
       <div class="company">
         {% if job.company-url %}
-        <a href="{{ job.company-url }}">{{ job.company }}</a>
+        <a href="{{ job.company-url }}" target="_blank" rel="noopener noreferrer">{{ job.company }}</a>
         {% else %}
         {{ job.company }}
         {% endif %}
