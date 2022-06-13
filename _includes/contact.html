@@ -85,15 +85,15 @@
     </li>
     {% endif %}
 
-    {% if sidebar.pdf %}
-    <li class="no-href no-print"><i class="fas fa-file-pdf"></i>
-      <a onclick="window.print()">Resume PDF</a>
+    {% if sidebar.portfolio %}
+    <li><i class="fab fa-youtube"></i>
+      <a href="{{ sidebar.portfolio }}" target="_blank">Portfolio</a>
     </li>
     {% endif %}
 
-    {% if sidebar.video %}
-    <li class="no-print"><i class="fab fa-youtube"></i>
-      <a href="{{ sidebar.video }}" target="_blank">Resume Video</a>
+    {% if sidebar.pdf %}
+    <li class="no-href no-print"><i class="fas fa-file-pdf"></i>
+      <a onclick="window.print()">Resume PDF</a>
     </li>
     {% endif %}
 
