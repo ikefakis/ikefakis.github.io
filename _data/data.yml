@@ -193,23 +193,25 @@ skills:
     toolset:
       - name: JS/TS & NodeJS 
         level: 98%
-      - name: Java & Spring
-        level: 98%
       - name: Angular
         level: 98%
-      - name: Containers
+      - name: React & NextJS
+        level: 95%
+      - name: HTML
+        level: 95%
+      - name: CSS & Tailwind
         level: 95%
       - name: Databases
         level: 95%
-      - name: HTML5 & CSS
-        level: 95%
       - name: Version Control
         level: 95%
-      - name: React
-        level: 75%
+      - name: Java & Spring
+        level: 85%
+      - name: Containers
+        level: 80%
       - name: Cloud
         level: 75%
-      - name: Photoshop
+      - name: Photoshop / Figma
         level: 60%
 
 footer: >
