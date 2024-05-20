@@ -78,8 +78,12 @@ education:
 experience:
     title: Experience
     jobs:
+      - role: Front-end Software Developer
+        time: 2024 - Present
+        company: XM, Athens, Greece
+        company-url: https://www.xm.com
       - role: IT Business Systems Analyst - Software Developer
-        time: 2018 - Present
+        time: 2018 - 2024
         company: Aerocandia Aviation Services, Heraklion, Greece
         company-url: https://www.aerocandia.com
         details: |
