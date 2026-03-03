@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Isidoros KEFAKIS
-    tagline: Full Stack Developer
+    tagline: Front-end Engineer · Angular · React · TypeScript
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,12 +52,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Developer with expertise in design, installation, 
-      testing and maintenance of software systems. Equipped with a diverse 
-      and promising skill-set. Proficient in various platforms and languages.
-      Experienced with cutting-edge development tools and procedures. Able to
-      effectively self-manage during independent projects, as well as collaborate
-      as part of a productive team.
+      Front-end Software Developer with 8+ years of hands-on experience building
+      scalable, high-performance web applications. Specialising in modern JavaScript
+      ecosystems — Angular, React, and Node.js — with a strong focus on component
+      architecture, clean code, and developer experience. Comfortable across the
+      full stack, from REST/GraphQL APIs to CI/CD pipelines and containerised
+      deployments. Passionate about crafting intuitive UIs, adopting emerging
+      technologies, and shipping production-quality software in agile teams.
 education:
     title: Education
     graduations:
@@ -82,6 +83,12 @@ experience:
         time: 2024 - Present
         company: XM, Athens, Greece
         company-url: https://www.xm.com
+        details: |
+            - Build and maintain micro-frontend modules for a high-traffic fintech platform serving millions of users worldwide
+            - Develop reusable component libraries with Angular and TypeScript, enforcing design-system consistency across squads
+            - Collaborate in agile squads using Jira, Confluence, Git flow and code-review best practices
+            - Optimise bundle sizes and Core Web Vitals scores through lazy-loading, tree-shaking and performance profiling
+            - Write unit and integration tests with Jest and Playwright to maintain high code coverage
       - role: IT Business Systems Analyst - Software Developer
         time: 2018 - 2024
         company: Aerocandia Aviation Services, Heraklion, Greece
@@ -130,32 +137,35 @@ projects:
       - title: IAG Booking Portal
         link: "https://ndc.ba.com/iagportal"
         tagline: >
-          A cloud-based tool which has been developed to offer a solution for 
-          Travel Agencies, Corporates and Travel Management Companies who want 
-          to access NDC offers.
+          Cloud-based NDC travel portal for IAG airlines. Built with Angular and TypeScript;
+          integrates IATA NDC APIs to deliver dynamic flight offers to Travel Agencies and
+          Corporate buyers.
 
       - title: Yum Meal Manager
         link: "https://gitlab.com/bootcamp.jrt/yum3"
         tagline: >
-          A complete solution for Chefs and Employees for meal management 
-          and ordering. Used Angular and Spring Boot and I was the Team Leader 
-          of the project.
+          Full-stack meal-management platform (Angular + Spring Boot + MySQL).
+          Led a team of 4 developers, designed the REST API, and shipped CI/CD pipelines
+          on GitLab.
 
-      - title: myFlight
+      - title: myFlight NDC Search
         link: 
         tagline: >
-          A responsive JSP website searching for flights through the new IATA 
-          NDC protocol.
+          Responsive flight-search UI consuming IATA NDC APIs via a Node.js/Express
+          middleware layer. Server-side rendered with JSP; focused on sub-second
+          time-to-interactive on mobile.
 
-      - title: Let me Mpei
+      - title: Let me Mpei — Access Control
         link: 
         tagline: >
-          A responsive Angular website backed with Java/MySQL to control the 
-          entrance/exit of employees in the building.
+          Angular SPA backed by a Java/Spring REST API and MySQL database that manages
+          employee building access in real time, including badge scanning and audit logs.
 
-      - title: AAS Flights
+      - title: AAS Flights Dashboard
         link: 
-        tagline: A responsive Angular website that provides lists of clients flights
+        tagline: >
+          Angular dashboard with reactive data tables and charting (Chart.js) that
+          visualises client flight schedules and operational KPIs for aviation ground-ops teams.
 
 publications:
     title: Publications
@@ -170,18 +180,15 @@ certifications:
     title: Certifications
     intro: 
     certificates:
-      - title: GCP Essentials
+      - title: Google Cloud Essentials
         link: "https://google.qwiklabs.com/public_profiles/8fb386b9-a9e9-4046-8764-6594e284a946"
-        organization: Google
+        organization: Google Cloud
+      - title: Angular Developer Certification
+        link: 
+        organization: Google Developers
       - title: Cisco CCNA Exploration
         link: 
         organization: Cisco
-      - title: ECDL WebStarter Certificate
-        link: 
-        organization: ICDL Certification
-      - title: ECDL ImageMaker Certificate
-        link: 
-        organization: ICDL Certification
       - title: Online Marketing Fundamentals in Tourism
         link: "/assets/pdf/Online_Marketing_Fundamentals_in_Tourism.pdf"
         organization: Google
@@ -195,28 +202,30 @@ certifications:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: JS/TS & NodeJS 
+      - name: TypeScript / JavaScript
         level: 98%
-      - name: Angular
+      - name: Angular (v2–18)
         level: 98%
-      - name: React & NextJS
+      - name: React &amp; Next.js
+        level: 92%
+      - name: HTML5 &amp; CSS3
         level: 95%
-      - name: HTML
-        level: 95%
-      - name: CSS & Tailwind
-        level: 95%
-      - name: Databases
-        level: 95%
-      - name: Version Control
-        level: 95%
-      - name: Java & Spring
+      - name: Tailwind CSS
+        level: 90%
+      - name: Node.js &amp; REST/GraphQL APIs
+        level: 88%
+      - name: SQL &amp; NoSQL Databases
         level: 85%
-      - name: Containers
+      - name: Git, CI/CD &amp; DevOps
+        level: 90%
+      - name: Java &amp; Spring Boot
         level: 80%
-      - name: Cloud
+      - name: Docker &amp; Kubernetes
         level: 75%
-      - name: Photoshop / Figma
-        level: 60%
+      - name: Cloud (GCP / AWS)
+        level: 72%
+      - name: AI Tools &amp; Copilot
+        level: 85%
 
 footer: >
     Developed with <i class="fas fa-heart"></i> by Isidoros</a>
